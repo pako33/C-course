@@ -1,1 +1,1 @@
-# tamagocci-game
+tamagotchi-game for comp systems course
